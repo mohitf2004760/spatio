@@ -1,0 +1,13 @@
+find all process containing port 3000 - 
+ps -ef | grep 3000
+
+kill the above process 
+kill -9 <pid>
+
+run a process in the background
+put a & sign at the last of the command.
+
+node node_modules/http-server/bin/http-server -p 3000 &
+
+Using forever -
+forever start node_modules/http-server/bin/http-server -p 3000

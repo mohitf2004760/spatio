@@ -1,0 +1,86 @@
+<state name="Andhra Pradesh">
+<district name="West Godavari">
+	<mandal name="Jeelugumilli">
+		<panchayat>Rachannagudem</panchayat>
+		<panchayat>Ankanna Gudem</panchayat>
+		<panchayat>Kamayya Palem</panchayat>
+		<panchayat>P. Ankampalem</panchayat>
+		<panchayat>Tatiyakulagudem</panchayat>
+		<panchayat>Jeelugu Milli</panchayat>
+		<panchayat>Vankavarigudem</panchayat>
+		<panchayat>Mulagalampalle</panchayat>
+		<panchayat>Gangannagudem</panchayat>
+		<panchayat>P. Rajavaram</panchayat>
+		<panchayat>Darbhagudem</panchayat>
+		<panchayat>Darbhagudem</panchayat>
+	</mandal>
+	<mandal name="Buttaigudem">
+		<panchayat>Aliveru</panchayat>
+		<panchayat>Antarvedigudem</panchayat>
+		<panchayat>Atchaiahpalem</panchayat>
+		<panchayat>Buttaigudem</panchayat>
+		<panchayat>Doramamidi</panchayat>
+		<panchayat>Ganapavaram</panchayat>
+		<panchayat>Jainavarigudem</panchayat>
+		<panchayat>K.R.Puram</panchayat>
+		<panchayat>Kamaiahkunta</panchayat>
+		<panchayat>Korsavarigudem</panchayat>
+		<panchayat>Kotanagavaram</panchayat>
+		<panchayat>Koya Rajahmundry</panchayat>
+		<panchayat>Lakshmudugudem</panchayat>
+		<panchayat>Mangaiahpalem</panchayat>
+		<panchayat>Munjuluru</panchayat>
+		<panchayat>Nimmalagudem</panchayat>
+		<panchayat>Puliramudugudem</panchayat>
+		<panchayat>Rajanagaram</panchayat>
+		<panchayat>Nuthi Ramannapalem</panchayat>
+		<panchayat>Ravvarigudem</panchayat>
+		<panchayat>Seetappagudem</panchayat>
+	</mandal>
+	<mandal name="Polavaram">
+		<panchayat>Itikalakota</panchayat>
+		<panchayat>Mamidigondhi</panchayat>
+		<panchayat>Geddapalle</panchayat>
+		<panchayat>Koruturu</panchayat>
+		<panchayat>Thutigunta</panchayat>
+		<panchayat>Kondrukota</panchayat>
+		<panchayat>Chegondapalle</panchayat>
+		<panchayat>Pydipaka</panchayat>
+		<panchayat>Polavaram(Plain)</panchayat>
+		<panchayat>Vinjaram</panchayat>
+		<panchayat>Jellalagudem</panchayat>
+		<panchayat>Lakshminarayana Devipeta</panchayat>
+		<panchayat>Pragada Palle</panchayat>
+		<panchayat>Pattisam(Plain)</panchayat>
+		<panchayat>Gutala(Plain)</panchayat>
+	</mandal>
+	<mandal name="Kukkunur">
+		<panchayat>Thondipaka</panchayat>
+		<panchayat>Amaravaram</panchayat>
+		<panchayat>Upperu</panchayat>
+		<panchayat>Damaracherla</panchayat>
+		<panchayat>Madhavarm</panchayat>
+		<panchayat>Vinjaram</panchayat>
+		<panchayat>Maredubaka</panchayat>
+		<panchayat>Kivvaka</panchayat>
+		<panchayat>Kukunoor</panchayat>
+		<panchayat>Dacharam</panchayat>
+		<panchayat>Gommugudem</panchayat>
+		<panchayat>Seetharama Nagar</panchayat>
+		<panchayat>Sridhara-Velair</panchayat>
+		<panchayat>Ganapavaran</panchayat>
+		<panchayat>Pedda Ravigudem</panchayat>
+	</mandal>
+	<mandal name="Velairpadu">
+		<panchayat>Rudramakota</panchayat>
+		<panchayat>Repakagommu</panchayat>
+		<panchayat>Thatkuru</panchayat>
+		<panchayat>Tirumalapuram</panchayat>
+		<panchayat>Narlavaram</panchayat>
+		<panchayat>Katukuru</panchayat>
+		<panchayat>Koida</panchayat>
+		<panchayat>Medepalli</panchayat>
+		<panchayat>Ramavaram</panchayat>
+	</mandal>
+</district>
+</state>

@@ -1,0 +1,4 @@
+district,mandal,gramPanchayat,hamlet,params.lattitude,params.longitude,params.noOfHouses,params.population,params.isLakeTankWithin1km,params.isRiverCanalPassingThroughVillage,params.noOfOpenWells,params.distanceOfPaddyAgriculture,params.noOfHousesWithMatsNets,params.noOfHousesWithToilets,params.noOfToiletsWithOpenVentPipes,params.noOfHousesWithKitchenGarden,params.noOfHousesWithStorageUnits,params.noOfHousesWithOpenDrainage,params.noOfHousesWithNoConcreteRoof,params.noOfHealthCentersWithin3Kms,params.distanceOfDumpingYardFromVillageSite,params.noOfMalariaCasesReportedLastWeek
+d1,m1,gp1,h1,17.30157928,81.31021593,69,200,1,1,0,1,0,18,0,0,1,0,66,0,0,39
+d2,m2,gp2,h2,17.330499,81.491507,88,299,0,1,0,0.5,0,81,0,0,0,0,72,1,0,82
+d3,m3,gp3,h3,17.317557,81.29968709,88,330,1,1,0,5,0,66,24,8,5,20,30,0,0,41

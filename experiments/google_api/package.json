@@ -25,7 +25,7 @@
     "file-api": "^0.10.4",
     "jsonwebtoken": "^7.2.1",
     "mongo-oplog-watch": "^1.0.3",
-    "mongoose": "^4.5.4",
+    "mongoose": "^5.9.25",
     "multer": "^1.1.0",
     "nodemailer": "^2.7.2",
     "normalize-to-range": "^2.0.0",
